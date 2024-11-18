@@ -1,3 +1,2 @@
-Assets/ogawa/Fonts/* filter=lfs diff=lfs merge=lfs -text
+Assets/ogawa/Font/* filter=lfs diff=lfs merge=lfs -text
 Assets/TextMeshPro/Resources/* filter=lfs diff=lfs merge=lfs -text
-
